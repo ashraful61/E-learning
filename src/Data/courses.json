@@ -1,0 +1,13 @@
+[{"id":1,"instructor":"Hadrian","course":"HTML","price":72},
+{"id":2,"instructor":"Brit","course":"CSS","price":87},
+{"id":3,"instructor":"Johannah","course":"C++","price":8},
+{"id":4,"instructor":"Norton","course":"Python","price":30},
+{"id":5,"instructor":"Hobey","course":"Node Js","price":25},
+{"id":6,"instructor":"Ola","course":"Angular","price":48},
+{"id":7,"instructor":"Rudolph","course":"React","price":31},
+{"id":8,"instructor":"Terri","course":"Vue","price":44},
+{"id":9,"instructor":"Arin","course":"Algorithm","price":8},
+{"id":10,"instructor":"Ana","course":"PHP","price":43},
+{"id":11,"instructor":"Faith","course":"Javascript","price":100},
+{"id":12,"instructor":"Ollie","course":"Django","price":77}]
+
